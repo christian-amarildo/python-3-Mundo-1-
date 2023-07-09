@@ -1,0 +1,24 @@
+numero = int(input("insira um numero"))
+zero = numero * 0
+um= numero * 1
+dois= numero * 2
+tres = numero * 3
+quatro =  numero * 4
+cinco = numero * 5
+seis = numero * 6
+sete = numero * 7
+oito = numero * 8
+nove = numero * 9
+dez = numero * 10
+print("a tabuada do numero ", numero,"é: ")
+print(numero," * 0 =",zero)
+print(numero," * 1 =",um)
+print(numero," * 2 =",dois)
+print(numero," * 3 =",tres)
+print(numero," * 4 =",quatro)
+print(numero," * 5 =",cinco)
+print(numero," * 6 =",seis)
+print(numero," * 7 =",sete)
+print(numero," * 8 =",oito)
+print(numero," * 9 =",nove)
+print(numero," * 10 =",dez)
