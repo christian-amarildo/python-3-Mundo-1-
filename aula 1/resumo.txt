@@ -1,0 +1,12 @@
+----------------------------------------------
+Curso Python #01 - Seja um Programador - Resumo
+----------------------------------------------
+
+- O texto é a introdução da primeira aula de um curso de Python, ministrado pelo professor Gustavo Guanabara.
+- O curso tem como objetivo ensinar programação de forma acessível a iniciantes.
+- O professor destaca a importância da programação nos dias atuais, mencionando sua aplicação em diversas áreas, como smartphones, dispositivos vestíveis e carros autônomos.
+- Ele ressalta a necessidade de mais programadores e a urgência de expandir o ensino de programação, especialmente no Brasil.
+- O professor desmistifica a ideia de que aprender a programar requer pré-requisitos complexos, como fluência em inglês ou conhecimento avançado de matemática.
+- Ele encoraja os alunos a persistirem e praticarem, destacando a importância da paciência e da dedicação no processo de aprendizado da programação.
+
+----------------------------------------------
