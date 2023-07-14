@@ -1,0 +1,15 @@
+-----------------------------------------------------
+Curso Python #02 - Para que serve o Python? - Resumo
+-----------------------------------------------------
+
+- O curso tem como objetivo ensinar os alunos a linguagem de programação Python e suas aplicações.
+- O professor destaca que o foco principal do curso é para iniciantes que desejam aprender a programar de forma simples e eficiente.
+- Ele menciona que o Python é uma linguagem de propósito geral, podendo ser utilizada em diferentes áreas, como cálculos, computação 3D e desenvolvimento de jogos.
+- O professor conta a história de origem do Python, sua criação em 1989 por Guido van Rossum, inspirado na linguagem ABC e no programa de humor "Monty Python's Flying Circus".
+- Ele explica que a linguagem Python evoluiu ao longo dos anos, ganhando uma comunidade de programadores e uma fundação sem fins lucrativos para mantê-la.
+- O Python é conhecido por sua simplicidade, organização e por ter um código bonito.
+- A linguagem Python é multiplataforma, o que significa que um programa escrito em Python pode ser executado em diferentes sistemas operacionais.
+- O Python é utilizado por várias empresas renomadas, como Google, Globo e Autodesk, e é amplamente adotado na indústria de software.
+- O professor incentiva os alunos a não pular etapas no processo de aprendizado, destacando que o domínio da linguagem requer tempo e prática.
+
+-----------------------------------------------------
