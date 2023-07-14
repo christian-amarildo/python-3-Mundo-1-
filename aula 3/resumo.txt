@@ -1,0 +1,31 @@
+Aula: Curso Python #03 - Instalando o Python3 e o IDLE
+
+1. Introdução ao curso de Python
+Nesta aula, foi feita uma introdução ao curso de Python, destacando a importância da linguagem e do aprendizado de programação em geral.
+
+2. Importância de aprender uma linguagem de programação simples
+Foi explicado o motivo pelo qual é recomendado começar a aprender programação com uma linguagem simples, como o Python, ressaltando sua facilidade de uso e compreensão.
+
+3. Analogia entre linguagem de programação e idiomas humanos
+Utilizando uma analogia, foi explicado como as linguagens de programação funcionam de maneira semelhante aos idiomas humanos, enfatizando a importância de compreender as diferenças de interpretação.
+
+4. Uso de dicionários e intérpretes na tradução de idiomas
+Para ilustrar o processo de tradução entre idiomas, foram apresentados exemplos de uso de dicionários e intérpretes, destacando como esses conceitos se aplicam à tradução entre a linguagem humana e a linguagem de máquina.
+
+5. Linguagem de máquina e sua tradução a partir da linguagem de programação
+Foi explicado o conceito de linguagem de máquina e como a linguagem de programação atua como um intermediário entre a linguagem humana e a linguagem de máquina, permitindo que os programas sejam executados pelos computadores.
+
+6. Instalação do Python no Windows, macOS e Linux
+Foram fornecidas instruções sobre como instalar o Python em diferentes sistemas operacionais, incluindo o Windows, macOS e Linux, destacando a necessidade de obter o instalador oficial do site do Python.
+
+7. Demonstração da instalação e uso do Python no terminal ou no IDLE
+Foi realizada uma demonstração da instalação bem-sucedida do Python e do seu uso, tanto através do terminal (linha de comando) quanto por meio do IDLE, o ambiente de desenvolvimento integrado padrão do Python.
+
+8. Utilização do IDLE como ambiente de programação
+Foi explicado o uso do IDLE como ambiente de programação, incluindo a execução de comandos, a escrita de scripts e a visualização dos resultados.
+
+9. Introdução à impressão de mensagens e operações básicas em Python
+Foi apresentada a impressão de mensagens na tela e a realização de operações básicas em Python, como a exibição de um "Olá, mundo" e a realização de cálculos simples.
+
+10. Encorajamento para continuar o estudo da programação e apoio ao curso
+Finalmente, houve um incentivo para continuar os estudos em programação, especialmente com Python, e um convite para apoiar o curso mencionado, a fim de garantir sua continuidade e aprimoramento.
