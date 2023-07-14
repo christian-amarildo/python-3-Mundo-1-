@@ -1,0 +1,26 @@
+Aula: Curso Python #04 - Primeiros comandos em Python3
+
+1. Introdução
+   - O professor Guanabara introduz a aula e menciona que agora é a fase 4 do curso, na qual serão abordados os primeiros desafios de programação em Python.
+
+2. Delimitadores e mensagens
+   - São explicados os delimitadores especiais para mensagens em Python, sendo utilizadas as aspas simples ou duplas.
+   - É demonstrado como criar mensagens utilizando aspas e parênteses, mostrando a composição desses elementos.
+
+3. Comando print
+   - É ensinado o comando print, que é utilizado para exibir mensagens na tela.
+   - São apresentados exemplos de exibição de mensagens e números utilizando o print.
+
+4. Variáveis
+   - São introduzidas as variáveis, que são objetos que guardam informações.
+   - É mostrado como criar variáveis e atribuir valores a elas.
+
+5. Interatividade com o usuário
+   - É explicado o uso da função input para interagir com o usuário, permitindo a leitura de informações fornecidas pelo usuário.
+
+6. Desafios
+   - São apresentados três desafios aos alunos, envolvendo a criação de scripts Python para exibir mensagens personalizadas, formatar datas e realizar operações matemáticas.
+
+7. Conclusão
+   - O professor Guanabara encerra a aula incentivando a prática e a busca por soluções aos desafios propostos.
+
