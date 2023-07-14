@@ -1,6 +1,6 @@
 # python-3-Mundo-1-
 ## Meus Exercícios de Python 3 - Mundo 1
-Bem-vindo ao repositório dos Meus Exercícios de Python 3 - Mundo 1! Aqui você encontrará os códigos e materiais relacionados aos exercícios propostos durante o curso.
+Bem-vindo ao repositório dos Meus Exercícios de Python 3 - Mundo 1! Aqui você encontrará os códigos e materiais relacionados aos exercícios propostos durante o curso do curso em video.
 
 ## Sobre o Repositório
 Neste repositório, compartilho os exercícios resolvidos do curso Python 3 - Mundo 1, desenvolvido por mim . Ao longo do curso, explorei os conceitos básicos da linguagem Python, estruturas de controle, tipos de dados, manipulação de strings, listas e tuplas. Os códigos aqui presentes representam minha dedicação e aprendizado durante o curso.
