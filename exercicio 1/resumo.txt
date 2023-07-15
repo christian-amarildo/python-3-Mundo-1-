@@ -1,0 +1,35 @@
+Tópicos da Aula "Exercício Python #001 - Deixando tudo pronto":
+
+1. Introdução
+   - Boas-vindas ao espectador.
+   - Lista de exercícios do curso de Python.
+   - Realização do curso através de uma campanha de crowdfunding.
+
+2. Preparação do Ambiente
+   - Recomendação de criar um projeto exclusivo para a playlist de exercícios.
+   - Verificação de instalação e configuração prévia do PyCharm.
+   - Criação de um novo projeto no PyCharm.
+   - Escolha do interpretador Python a ser utilizado.
+
+3. Exercício 001 - "Olá, Mundo!"
+   - Apresentação do enunciado do primeiro exercício.
+   - Escrita do código para exibir a mensagem "Olá, Mundo!" na tela.
+   - Dicas de formatação do código para deixá-lo organizado.
+   - Adição de uma linha vazia no final do código para indicar o fim do programa.
+
+4. Execução do Programa
+   - Demonstração da execução do programa no PyCharm.
+
+5. Utilização de Variáveis
+   - Apresentação de uma forma alternativa de resolver o exercício usando uma variável para armazenar a mensagem.
+
+6. Exercício 002
+   - Criação e execução de um novo exercício.
+
+7. Agradecimento aos Apoiadores
+   - Reconhecimento dos apoiadores que tornaram possível a criação dos exercícios.
+   - Incentivo aos espectadores para colaborarem com a campanha de crowdfunding.
+
+8. Encerramento e Próximos Passos
+   - Incentivo para os espectadores acompanharem a playlist de exercícios.
+   - Sugestão de inscrição no canal para receber notificações das próximas aulas.
