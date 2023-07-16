@@ -1,1 +1,29 @@
+1. Introdução
+   - Descrição do programa sendo construído.
+   - Explicação sobre a conversão de números inteiros.
+   - Apresentação dos tipos primitivos e operadores aritméticos.
+
+2. Operadores Aritméticos
+   - Operador de adição (+) - realizando uma soma.
+   - Operador de subtração (-) - realizando uma subtração.
+   - Operador de multiplicação (*) - realizando uma multiplicação.
+   - Operador de divisão (/) - realizando uma divisão.
+   - Operador de divisão inteira (//) - retornando o quociente inteiro da divisão.
+   - Operador de resto (ou módulo) (%) - retornando o resto da divisão.
+   - Operador de exponenciação (**) - realizando uma potenciação.
+
+3. Ordem de Precedência
+   - Explicação da ordem de execução dos operadores.
+   - Utilização de parênteses para alterar a ordem de precedência.
+   - Exemplos de cálculos seguindo a ordem correta.
+
+4. Operadores com Strings
+   - Demonstração de concatenação com o operador de adição (+).
+   - Utilização da função interna 'print' para formatação.
+   - Exemplos de alinhamento e formatação de saída.
+
+6. Conclusão
+   - Importância da prática para aprender os conceitos.
+   - Dicas para aprimorar os conhecimentos em programação.
+
 
