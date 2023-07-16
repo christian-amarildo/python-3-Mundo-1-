@@ -1,0 +1,11 @@
+Resumo do vídeo "Exercício Python #002 - Respondendo ao Usuário":
+
+1. Desafio: O vídeo apresenta o segundo desafio do curso de Python. A tarefa consiste em criar um programa que leia o nome de uma pessoa e exiba uma mensagem de boas-vindas.
+
+2. Abordagem: O instrutor incentiva os espectadores a tentarem resolver o exercício por conta própria antes de fornecer sua solução. Ele abre o ambiente de desenvolvimento Python e navega até o projeto do exercício.
+
+3. Solução: O instrutor prossegue implementando a solução ao declarar uma variável para armazenar o nome digitado pelo usuário. Ele utiliza a função `input()` para ler o nome e, em seguida, exibe a mensagem de boas-vindas utilizando a função `print()` com formatação de string.
+
+4. Formatação de String: O vídeo demonstra dois métodos de formatação de string em Python: usando concatenação com o operador `+` e utilizando literais de string formatada (f-strings). O instrutor incentiva o uso das f-strings para uma solução mais elegante e eficiente.
+
+5. Conclusão: O vídeo conclui incentivando os espectadores a continuarem sua jornada de aprendizado em Python, seguindo as listas de reprodução do curso e explorando mais exercícios. O instrutor enfatiza a importância da prática e do entendimento completo dos conceitos para uma aprendizagem eficaz.
