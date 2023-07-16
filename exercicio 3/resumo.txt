@@ -1,0 +1,20 @@
+Tópico 1: Introdução e criação de um novo arquivo
+- O professor inicia a aula apresentando o exercício a ser resolvido, que consiste em somar dois valores digitados pelo usuário.
+- Ele mostra como criar um novo arquivo no Python e dá dicas sobre o ambiente de programação.
+
+Tópico 2: Enunciado do exercício
+- O enunciado do desafio é explicado, que consiste em criar um programa que leia dois números e mostre a soma entre eles.
+- O professor ressalta a importância de acompanhar as aulas anteriores para entender os conceitos necessários para resolver o exercício.
+
+Tópico 3: Resolução do exercício
+- O professor demonstra a resolução do exercício, usando os comandos de entrada (input) para receber os valores digitados pelo usuário.
+- Ele explica que é importante converter os valores para o tipo numérico adequado (inteiro) antes de realizar a soma.
+- Após a correção do código, ele mostra como executar o programa e obter o resultado correto da soma.
+
+Tópico 4: Importância da prática e digitação correta
+- O professor enfatiza a importância da prática para aprender a programar e alerta sobre os erros comuns na digitação do código.
+- Ele incentiva os alunos a digitar o código ao invés de copiar e colar, pois é a melhor maneira de aprender.
+
+Tópico 5: Conclusão e incentivo ao aprendizado contínuo
+- O vídeo conclui com o incentivo para que os alunos acompanhem as aulas e façam os exercícios para realmente aprenderem a linguagem Python.
+- O professor ressalta que o objetivo não é apenas obter um certificado, mas sim aprender de verdade.
