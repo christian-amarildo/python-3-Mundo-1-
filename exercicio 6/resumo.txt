@@ -1,3 +1,5 @@
+resumo Exercício Python #006 - Dobro, Triplo, Raiz Quadrada
+
 Introdução
 
 Descrição do desafio simples.
