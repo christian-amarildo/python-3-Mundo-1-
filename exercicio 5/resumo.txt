@@ -1,0 +1,28 @@
+Introdução
+
+Descrição do desafio simples.
+Objetivo de mostrar o antecessor e o sucessor de um número inteiro.
+
+Preparação
+
+Recomendação para assistir à aula 7 sobre operadores aritméticos em Python.
+
+Desenvolvimento do programa
+
+Criação do programa Python.
+Solicitação do número inteiro ao usuário.
+Cálculo e exibição do antecessor e sucessor do número fornecido.
+
+Simplificação do código
+
+Demonstração de uma versão mais enxuta do programa.
+Uso de apenas uma variável para mostrar o antecessor e sucessor.
+
+Conclusão
+
+Importância da prática para aprender programação em Python.
+
+Encerramento
+
+Incentivo para acessar a playlist de aulas e exercícios do curso.
+Incentivo para inscrever-se no canal, ativar notificações e compartilhar a playlist.
