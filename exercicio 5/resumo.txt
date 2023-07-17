@@ -1,3 +1,5 @@
+resumo Exercício Python #005 - Antecessor e Sucessor
+
 Introdução
 
 Descrição do desafio simples.
