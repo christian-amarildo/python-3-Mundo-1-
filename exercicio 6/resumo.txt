@@ -1,0 +1,29 @@
+Introdução
+
+Descrição do desafio simples.
+Objetivo de calcular o dobro, triplo e raiz quadrada de um número inteiro.
+
+Preparação
+Recomendação para assistir à aula 7 sobre operadores aritméticos em Python.
+
+Desenvolvimento do programa
+Criação do programa Python.
+Leitura do número inteiro digitado pelo usuário.
+Cálculo do dobro, triplo e raiz quadrada do número fornecido.
+Utilização do operador de exponenciação para calcular a raiz quadrada.
+
+Exemplo de formatação
+Demonstração de formatação dos resultados utilizando a função 'format'.
+
+Outras formas de calcular a raiz quadrada
+Uso da função 'power' para calcular a raiz quadrada.
+
+Conclusão
+Importância da prática para aprender programação em Python.
+Incentivo para continuar estudando e praticando.
+
+Encerramento
+Pedido para dar feedback sobre a dificuldade do exercício.
+Incentivo para compartilhar a playlist de exercícios com amigos e continuar estudando.
+
+O vídeo apresenta um exercício simples que utiliza operadores aritméticos para calcular o dobro, triplo e raiz quadrada de um número inteiro fornecido pelo usuário. O código em Python é desenvolvido ao longo do vídeo, e o instrutor também apresenta diferentes formas de calcular a raiz quadrada. O vídeo enfatiza a importância da prática contínua para aprender programação em Python e encoraja os espectadores a continuar estudando e praticando.
