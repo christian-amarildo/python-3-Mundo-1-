@@ -1,0 +1,21 @@
+Resumo do vídeo "Exercício Python #008 - Conversor de Medidas":
+
+1. Introdução
+   - Apresentação do desafio: criar um programa que converta uma distância em metros para centímetros e milímetros.
+   - Explicação da escala de medidas, do quilômetro ao milímetro, para ajudar na resolução do exercício.
+
+2. Desenvolvimento do programa
+   - Leitura da medida em metros utilizando a função 'input'.
+   - Conversão da medida para centímetros e milímetros através de simples multiplicações.
+   - Utilização da função 'format' para exibir os resultados na saída.
+
+3. Proposta de aprimoramento
+   - Desafio adicional: criar um programa que também exiba a medida em quilômetros, hectômetros, decâmetros e decímetros.
+   - Incentivo para que os espectadores compartilhem suas soluções nos comentários.
+
+4. Conclusão
+   - Reflexão sobre a utilidade da prática dos exercícios para consolidar o conhecimento.
+   - Agradecimento aos apoiadores do canal e enaltecimento da comunidade de aprendizado.
+   - Incentivo para inscrição no canal, ativação das notificações e compartilhamento do conteúdo.
+
+O vídeo apresenta um desafio que consiste em criar um programa Python que converta uma distância em metros para centímetros e milímetros. O instrutor explica a escala de medidas e mostra como realizar as conversões. Além disso, ele propõe um desafio adicional para aprimorar o exercício, incentivando os espectadores a compartilharem suas soluções. O vídeo enfatiza a importância da prática e agradece aos apoiadores da comunidade de aprendizado.
