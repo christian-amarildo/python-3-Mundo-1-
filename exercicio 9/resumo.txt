@@ -1,0 +1,20 @@
+Resumo do vídeo "Exercício Python #009 - Tabuada":
+
+1. Introdução
+   - O exercício propõe criar um programa que exiba a tabuada de um número inteiro digitado pelo usuário.
+   - Explicação sobre o desafio de apresentar os resultados alinhados com os símbolos de igual.
+
+2. Desenvolvimento do programa
+   - Leitura do número inteiro digitado pelo usuário utilizando a função 'input'.
+   - Cálculo da tabuada do número digitado, utilizando a estrutura de repetição 'for'.
+   - Utilização da função 'format' para alinhar os resultados com os símbolos de igual e apresentá-los na tela.
+
+3. Proposta de melhoria
+   - Desafio adicional: incluir os valores de um a doze na tabuada e utilizar multiplicação com o operador '*'.
+   - Demonstrações da utilização do operador '*' para replicar strings e melhorar a formatação da tabuada.
+
+4. Conclusão
+   - Incentivo à prática e ao aprendizado contínuo.
+   - Sugestão para os espectadores explorarem outros exercícios disponíveis na playlist do canal.
+
+O vídeo apresenta um exercício onde é necessário criar um programa Python que exiba a tabuada de um número inteiro digitado pelo usuário. O instrutor explica detalhadamente como desenvolver o programa, utilizando estruturas de repetição e a função 'format' para apresentar os resultados de forma organizada. Além disso, ele propõe uma melhoria no exercício, desafiando os espectadores a incluir mais valores na tabuada e utilizar o operador '*' para replicar strings. O vídeo enfatiza a importância da prática e do aprendizado contínuo, incentivando os espectadores a explorarem mais exercícios disponíveis no canal.
