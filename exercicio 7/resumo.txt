@@ -1,0 +1,25 @@
+Resumo do vídeo "Exercício Python #007 - Média Aritmética":
+
+1. Introdução
+   - Apresentação do desafio clássico de calcular a média aritmética de duas notas do aluno.
+
+2. Preparação
+   - Recomendação para assistir à aula 7 sobre operadores aritméticos em Python para compreender os conceitos necessários.
+
+3. Desenvolvimento do programa
+   - Criação do programa Python para calcular a média.
+   - Leitura de duas notas do aluno.
+   - Cálculo da média aritmética utilizando a fórmula (nota1 + nota2) / 2.
+   - Utilização da função 'format' para exibir o resultado com duas casas decimais.
+
+4. Tratamento de erros
+   - Identificação e correção de erros na ordem de precedência dos operadores na fórmula da média.
+
+5. Exemplos e arredondamento
+   - Demonstração de cálculos com diferentes notas, incluindo exemplos com uma casa decimal.
+
+6. Conclusão
+   - Incentivo a deixar feedback sobre a dificuldade do exercício.
+   - Encorajamento para ajudar os colegas nos comentários e continuar praticando.
+
+O vídeo apresenta o desafio de calcular a média aritmética de duas notas de um aluno em Python. O instrutor explica a importância de compreender a ordem de precedência dos operadores e como utilizar a função 'format' para controlar a quantidade de casas decimais no resultado. Além disso, ressalta a importância da prática e incentiva a participação da comunidade na resolução dos exercícios.
