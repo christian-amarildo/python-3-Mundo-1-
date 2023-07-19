@@ -1,0 +1,25 @@
+Resumo do vídeo "Exercício Python #010 - Conversor de Moedas":
+
+Introdução
+
+O exercício propõe criar um programa que converta um valor em reais para dólares, considerando a cotação de 3,27 reais por dólar.
+Explicação sobre a importância de assistir as aulas anteriores para acompanhar o desenvolvimento dos exercícios.
+
+Desenvolvimento do programa
+
+Utilização do PyCharm para criar e desenvolver o programa.
+Leitura do valor em reais digitado pelo usuário através da função 'input'.
+Cálculo da conversão para dólares utilizando a fórmula: valor_em_reais / cotação_dólar.
+Utilização da função 'format' para exibir o resultado formatado com duas casas decimais.
+
+Proposta de melhoria
+
+Desafio adicional: criar um conversor de moedas mais atualizado que obtenha a cotação do dólar através de um site conversor de moedas na web.
+
+Conclusão
+
+Incentivo à prática e à busca por conhecimento.
+Explicação sobre o foco do curso em atender alunos iniciantes e a importância de perseverar no aprendizado.
+Convite para que os espectadores se inscrevam no canal e acompanhem as próximas aulas e exercícios.
+
+O vídeo apresenta o 10º exercício do curso de Python, que consiste em criar um conversor de moedas de reais para dólares. O instrutor explica detalhadamente como desenvolver o programa, incluindo a leitura do valor em reais, o cálculo da conversão para dólares e a formatação do resultado exibido na tela. Além disso, ele propõe um desafio adicional para os espectadores, incentivando-os a criar um conversor mais atualizado que obtenha a cotação do dólar de um site conversor de moedas na web. O vídeo enfatiza a importância de continuar praticando e buscando conhecimento para melhorar as habilidades de programação.
