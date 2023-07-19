@@ -1,0 +1,21 @@
+Introdução:
+O desafio propõe criar um programa que calcule a quantidade de tinta necessária para pintar uma parede com base em suas dimensões.
+Explicação sobre o cálculo da área da parede, considerando a largura e altura fornecidas pelo usuário.
+
+Desenvolvimento do programa:
+Utilização do PyCharm para criar e desenvolver o programa.
+Leitura das dimensões da parede (largura e altura) através da função 'input'.
+Cálculo da área da parede multiplicando a largura pela altura.
+Cálculo da quantidade de tinta necessária considerando que cada litro pinta uma área de 2 metros quadrados.
+Utilização da função 'format' para exibir o resultado formatado com duas casas decimais.
+
+Exemplos:
+Demonstração do programa com exemplos de diferentes dimensões de parede.
+Incentivo à prática e ao raciocínio lógico para resolver o desafio proposto.
+
+Conclusão:
+Incentivo à participação dos espectadores, sugerindo que tentem fazer o exercício sozinhos antes de assistir à resposta.
+A importância de aplicar o raciocínio lógico diariamente, fundamental para programadores.
+Convite para que os espectadores se inscrevam no canal e acompanhem os próximos exercícios.
+
+O vídeo apresenta o 11º exercício do curso de Python, que consiste em criar um programa que calcule a quantidade de tinta necessária para pintar uma parede com base em suas dimensões (largura e altura). O instrutor explica detalhadamente como desenvolver o programa, incluindo o cálculo da área da parede e a determinação da quantidade de tinta necessária, considerando que cada litro pinta uma área de 2 metros quadrados. O vídeo enfatiza a importância de aplicar o raciocínio lógico para resolver o desafio proposto e encoraja os espectadores a tentarem fazer o exercício sozinhos antes de assistir à resposta. O objetivo é incentivar a prática e o desenvolvimento das habilidades de programação.
