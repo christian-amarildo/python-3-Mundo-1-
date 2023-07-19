@@ -1,3 +1,5 @@
+resumo do vídeo "Exercício Python #011 - Pintando Parede":
+
 Introdução:
 O desafio propõe criar um programa que calcule a quantidade de tinta necessária para pintar uma parede com base em suas dimensões.
 Explicação sobre o cálculo da área da parede, considerando a largura e altura fornecidas pelo usuário.
