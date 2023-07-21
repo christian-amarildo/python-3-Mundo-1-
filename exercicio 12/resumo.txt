@@ -1,0 +1,23 @@
+Tópicos do vídeo "Exercício Python #012 - Calculando Descontos":
+
+1. Introdução
+   - Apresentação do desafio do exercício: criar um programa que calcule o novo preço de um produto com desconto de 5%.
+   - Explicação sobre a importância de aprender a calcular porcentagens e a dificuldade que muitas pessoas têm nesse tipo de cálculo.
+
+2. Desenvolvimento do programa
+   - Utilização do PyCharm para criar e desenvolver o programa.
+   - Explicação da fórmula para calcular o valor do desconto: novo_preco = preco - (preco * 5 / 100).
+
+3. Demonstração com exemplos
+   - Apresentação de exemplos práticos de cálculos com porcentagem e desconto.
+   - Utilização do console do Python para fazer cálculos de porcentagem em tempo real.
+
+4. Proposta de exercício adicional
+   - Desafio para o espectador praticar o cálculo de porcentagens e descontos no exercício seguinte (Exercício Python #013).
+
+5. Conclusão
+   - Incentivo para que os espectadores pratiquem e se familiarizem com cálculos de porcentagens.
+   - Convite para se inscrever no canal e explorar outros vídeos e exercícios disponíveis na playlist.
+
+Resumo:
+No 12º exercício do curso de Python, o instrutor ensina como calcular descontos utilizando porcentagens. Ele apresenta a fórmula para calcular o novo preço de um produto com desconto de 5% e explica como realizar cálculos de porcentagem de forma simples. O vídeo traz exemplos práticos e demonstrações no console do Python para fixar o conceito. O instrutor incentiva os espectadores a praticarem os exercícios para se tornarem mais familiarizados com cálculos de porcentagem. A conclusão ressalta a importância da prática e o convite para explorar outros conteúdos do canal.
