@@ -1,0 +1,25 @@
+Resumo do vídeo "Exercício Python #013 - Reajuste Salarial":
+
+# Definição da função para calcular o novo salário com aumento de 15%
+def calcular_novo_salario(salario_atual):
+    aumento = salario_atual * 0.15
+    novo_salario = salario_atual + aumento
+    return novo_salario
+
+# Leitura do salário atual como entrada do usuário
+salario = float(input("Digite o salário atual do funcionário: "))
+
+# Cálculo do novo salário com 15% de aumento
+novo_salario = calcular_novo_salario(salario)
+
+# Exibição do resultado formatado na tela
+print(f"Um funcionário que ganhava R${salario:.2f} com 15% de aumento passa a receber R${novo_salario:.2f}.")
+
+# Dicas adicionais e incentivo ao aprendizado de programação
+print("Exercício relacionado ao cálculo de porcentagem e reajuste salarial.")
+print("Persistência e prática são essenciais para aprender a programar.")
+print("Aproveite para criar situações similares com cálculos de porcentagem em diferentes contextos.")
+print("Explore outros cursos e conteúdos no canal para aprofundar seus conhecimentos.")
+
+# Encerramento
+print("Espero que esse exercício tenha sido útil. Até a próxima!")
