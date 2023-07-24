@@ -1,0 +1,12 @@
+Resumo do vídeo "Exercício Python #014 - Conversor de Temperaturas":
+
+- Introdução ao exercício de conversão de temperaturas de Celsius para Fahrenheit.
+- Explicação sobre a fórmula de conversão utilizada: °F = (9 * °C / 5) + 32.
+- Descrição do desafio proposto: criar um programa que leia uma temperatura em graus Celsius e converta para Fahrenheit.
+- Implementação do código em Python, utilizando a fórmula de conversão.
+- Exemplos de conversão de temperaturas, como 45°C que corresponde a 113°F e 40°C que corresponde a 104°F.
+- Demonstração de que não é necessário utilizar parênteses na fórmula de conversão, pois os operadores têm ordem de precedência.
+- Incentivo à prática e ao aprendizado contínuo de programação, destacando a importância de assistir aos vídeos em sequência para melhor assimilação dos conceitos.
+- Antecipação de que o próximo exercício será um pouco mais desafiador.
+
+Conversão de temperaturas de Celsius para Fahrenheit usando a fórmula °F = (9 * °C / 5) + 32. O código Python lê a temperatura em graus Celsius como entrada, realiza o cálculo da conversão e exibe o resultado em Fahrenheit. O vídeo encoraja a prática e o compartilhamento dos conteúdos com amigos.
