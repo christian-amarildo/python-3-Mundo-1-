@@ -1,0 +1,21 @@
+(2) Exercício Python #015 - Aluguel de Carros - YouTube
+
+Resumo:
+- O exercício trata sobre o cálculo do valor a pagar pelo aluguel de um carro, levando em conta a quantidade de dias alugados e a quantidade de quilômetros rodados.
+- O enunciado pode parecer complicado, mas a resolução do exercício é simples quando dividido em partes.
+- O programa solicita ao usuário a quantidade de dias alugados (inteiro) e a quantidade de quilômetros rodados (float).
+- Utilizando a fórmula de cálculo fornecida no enunciado, o programa calcula o valor das diárias (dias * 60 reais) e o valor dos quilômetros rodados (quilômetros * 0.15 reais).
+- Por fim, o programa exibe o total a ser pago pelo aluguel do carro, somando o valor das diárias e dos quilômetros rodados.
+- O instrutor ressalta a importância de dividir o exercício em pequenas tarefas e testar cada parte individualmente para evitar erros e facilitar a resolução.
+
+Tópicos:
+1. Introdução ao exercício de cálculo de aluguel de carros.
+2. Explicação sobre a resolução simples do exercício, mesmo com um enunciado elaborado.
+3. Uso do PyCharm para escrever e testar o código.
+4. Leitura da quantidade de dias e quilômetros alugados.
+5. Cálculo do valor das diárias e dos quilômetros rodados.
+6. Exibição do total a ser pago pelo aluguel do carro.
+7. Estratégia de dividir para conquistar, modularizando o código em pequenas partes.
+8. Esclarecimento sobre o público-alvo do curso, focado em iniciantes sem conhecimento prévio de programação.
+9. Agradecimento aos espectadores, compartilhamentos e inscrições que tornaram os vídeos possíveis.
+10. Anúncio sobre a complexidade crescente dos próximos exercícios, abordando operadores e estudos de bibliotecas.
