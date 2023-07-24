@@ -1,1 +1,37 @@
 
+Título: Curso Python #08 - Utilizando Módulos
+
+Neste vídeo, o instrutor aborda o tema de módulos em Python, que permitem estender a funcionalidade da linguagem além das operações básicas. A importação de módulos é explicada, usando os comandos "import" e "from". É feita uma demonstração prática utilizando o módulo padrão "math" para realizar cálculos matemáticos.
+
+Tópicos abordados:
+
+1. Introdução aos módulos em Python:
+   - Extensão da funcionalidade básica da linguagem.
+   - Analogia com carros populares que podem ser aprimorados.
+
+2. Uso dos comandos "import" e "from":
+   - Importação de módulos para adicionar funcionalidades.
+   - Exemplo de uso dos comandos "import" e "from".
+
+3. Exemplo prático com o módulo "math":
+   - Utilização do módulo "math" para cálculos matemáticos.
+   - Demonstração das funções disponíveis, como "ceil", "floor", "sqrt", "pow" e "factorial".
+
+4. Verificação dos módulos instalados:
+   - Como verificar os módulos instalados na máquina.
+
+5. Proposição de desafios para os espectadores:
+   - Desafios envolvendo cálculos matemáticos e sorteio de ordem de apresentação.
+
+6. Incentivo para resolver os desafios:
+   - Importância de praticar os conceitos aprendidos.
+   - Recursos adicionais disponíveis na página do curso.
+
+
+Desafios propostos no vídeo:
+
+Criar um programa que leia um número real e mostre sua parte inteira.
+Criar um programa que calcule a hipotenusa de um triângulo retângulo.
+Criar um programa que leia um ângulo e mostre os valores do seno, cosseno e tangente.
+Criar um programa que sorteie a ordem de apresentação de trabalhos de 24 alunos.
+Criar um programa em Python que abra e reproduza um arquivo de áudio em formato MP3.
